@@ -78,12 +78,6 @@
 - (TopTabPage *)TopTabControl:(TopTabControl *)tabCtrl
                       pageAtIndex:(NSUInteger)index;
 
-
-
-
-
-
-
 @end
 
 @interface TopTabControl : UIView
